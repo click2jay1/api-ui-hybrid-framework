@@ -16,11 +16,11 @@ The goal of this project is to showcase how to validate data consistency between
 - CI/CD Ready: Prepared for GitHub Actions integration.
 
 ## Tech Stack
-Language: Python
-Test Runner: Pytest
-UI Automation: Selenium WebDriver
-API Testing: Requests
-Reporting: Pytest-HTML / Allure
+- Language: Python
+- Test Runner: Pytest
+- UI Automation: Selenium WebDriver
+- API Testing: Requests
+- Reporting: Pytest-HTML / Allure
 
 ## Folder Structure
 ```text
