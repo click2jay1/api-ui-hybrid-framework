@@ -70,6 +70,8 @@ In modern software development, testing the UI alone is slow, and testing the AP
 ## Author
 **Jay Raj Prakash**
 ```text
-📧 jayrajprakash@outlook.com 
-🔗 GitHub Profile 
+ISTQB Advanced Level (CTAL-TAE) Certified
+📧 jayrajprakash@outlook.com
+🔗 [GitHub Profile](https://github.com/click2jay1)
 📍 Greater Seattle Area, WA
+```
