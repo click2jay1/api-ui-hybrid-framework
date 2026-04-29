@@ -72,6 +72,6 @@ In modern software development, testing the UI alone is slow, and testing the AP
 ```text
 ISTQB Advanced Level (CTAL-TAE) Certified
 📧 jayrajprakash@outlook.com
-🔗 [GitHub Profile](https://github.com/click2jay1)
+🔗 https://github.com/click2jay1?tab=repositories
 📍 Greater Seattle Area, WA
 ```
